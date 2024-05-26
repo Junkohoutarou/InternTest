@@ -4,7 +4,7 @@
 
 Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
 ## Features
-
+![Design][https://imgur.com/AesFABv]
 ### Built With
 
 - [React](https://reactjs.org/docs/getting-started.html)
