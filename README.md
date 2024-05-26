@@ -6,7 +6,9 @@ Internship tests: Write a frontend chat web application following the designWrit
 ## Features
 
 ![Design](public/design.jpg)
-
+![Result](public/result.png)
+![Result](public/hover.png)
+![Result](public/search.png)
 ### Built With
 
 - [React](https://reactjs.org/docs/getting-started.html)
