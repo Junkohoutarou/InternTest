@@ -4,7 +4,7 @@
 
 Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
 ## Features
-[![Design](https://imgur.com/uzpgdWq)
+[Imgur](https://imgur.com/uzpgdWq)
 
 ### Built With
 
