@@ -4,18 +4,18 @@
 
 Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
 
-## Features
+### Built With
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- [React][React-url]
+- [TypeScript][TypeScript-url]
+- [TailwinCSS][TailwindCSS-url]
 
 ## Installation
 
 1. Clone the project from GitHub:
 
-    ```
-    git clone https://github.com/yourusername/yourproject.git
+    ```bash
+   [ git clone https://github.com/yourusername/yourproject.git](https://github.com/Junkohoutarou/InternTest.git)
     ```
 
 2. Navigate into the project directory:
@@ -25,6 +25,7 @@ Internship tests: Write a frontend chat web application following the designWrit
     ```
 
 3. Install the dependencies:
+npm install --save @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
 
     ```
     npm install
