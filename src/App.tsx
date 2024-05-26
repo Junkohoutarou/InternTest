@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import Profile from './Features/Chat/Profile';
 import ChatList from './Features/Chat/ChatList';
 import ChatWindow from './Features/Chat/ChatWindow';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBell } from '@fortawesome/free-solid-svg-icons';
 import Navigation from './Features/Chat/Navigation';
 import './index.css';
 

@@ -32,6 +32,9 @@ Internship tests: Write a frontend chat web application following the designWrit
     ```
     npm install
     ```
+    ```
+    npm install @fortawesome/free-solid-svg-icons
+    ```
 
 4. Run the application:
 
