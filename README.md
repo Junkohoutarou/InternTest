@@ -6,9 +6,9 @@ Internship tests: Write a frontend chat web application following the designWrit
 
 ### Built With
 
-[React](https://reactjs.org/docs/getting-started.html)
-[TypeScript](https://www.typescriptlang.org/docs/)
-[Tailwind CSS](https://tailwindcss.com/docs)
+- [React](https://reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [Tailwind CSS](https://tailwindcss.com/docs)
 
 
 ## Installation
