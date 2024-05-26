@@ -16,7 +16,7 @@ Internship tests: Write a frontend chat web application following the designWrit
 1. Clone the project from GitHub:
 
     ```bash
-   [ git clone https://github.com/yourusername/yourproject.git](https://github.com/Junkohoutarou/InternTest.git)
+   [https://github.com/Junkohoutarou/InternTest.git]
     ```
 
 2. Navigate into the project directory:
