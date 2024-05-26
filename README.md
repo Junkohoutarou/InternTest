@@ -45,18 +45,19 @@ Internship tests: Write a frontend chat web application following the designWrit
     ```
 
 ## Source Tree
+```
 📦src
  ┣── 📂Features                  
- ┃────┣──📂Chat
- ┃────┣──📂 ChatList
- ┃────┣──📂 ChatMessage 
- ┃────┣──📂 ChatWindow 
- ┃────┣──📂 Navigation 
- ┃────┗──📂 Profile
+ ┃    ┗──📂Chat
+ ┃        ┣──📂 ChatList
+ ┃        ┣──📂 ChatMessage 
+ ┃        ┣──📂 ChatWindow 
+ ┃        ┣──📂 Navigation 
+ ┃        ┗──📂 Profile
  ┣ 📜App.jsx                   
  ┣ 📜index.scss
  ┗ 📜main.jsx
- 
+ ```
 ## How to push
 
 - Role commit
