@@ -1,4 +1,4 @@
-# Project Name
+# Chat App UI
 
 ## Description
 
