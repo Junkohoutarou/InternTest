@@ -22,7 +22,7 @@ Internship tests: Write a frontend chat web application following the designWrit
 2. Navigate into the project directory:
 
     ```
-    cd yourproject
+    cd InternTest
     ```
 
 3. Install the dependencies:
