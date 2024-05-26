@@ -3,6 +3,7 @@
 ## Description
 
 Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
+## Features
 
 ### Built With
 
