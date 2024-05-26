@@ -4,8 +4,9 @@
 
 Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
 ## Features
+<img src="public/design.jpg" alt="Design" style="width: 300px; height: auto;">
 
-![Design](public/design.jpg)
+![Design]()
 ![Result](public/result.png)
 ![Result](public/hover.png)
 ![Result](public/search.png)
