@@ -5,7 +5,7 @@
 Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
 ## Features
 
-<img src="[link_anh_cua_ban](https://imgur.com/uzpgdWq)">
+![Design](public/design.jpg)
 
 ### Built With
 
