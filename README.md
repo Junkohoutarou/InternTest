@@ -4,12 +4,11 @@
 
 Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
 ## Features
-<img src="public/design.jpg" alt="Design" style="width: 300px; height: auto;">
+<img src="public/design.jpg" alt="Design" width="300">
+<img src="public/result.png" alt="Result" width="300">
+<img src="public/hover.png" alt="Hover" width="300">
+<img src="public/search.png" alt="Search" width="300">
 
-![Design]()
-![Result](public/result.png)
-![Result](public/hover.png)
-![Result](public/search.png)
 ### Built With
 
 - [React](https://reactjs.org/docs/getting-started.html)
