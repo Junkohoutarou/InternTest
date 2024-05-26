@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a [Application Name] for [describe main functionality].
+Internship tests: Write a frontend chat web application following the designWrite a frontend chat web application following the design.
 
 ## Features
 
