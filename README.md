@@ -26,7 +26,7 @@ Internship tests: Write a frontend chat web application following the designWrit
     ```
 
 3. Install the dependencies:
-npm install --save @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
+
 
     ```
     npm install
