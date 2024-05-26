@@ -44,20 +44,44 @@ Internship tests: Write a frontend chat web application following the designWrit
     npm start
     ```
 
-## Usage
+## Source Tree
+📦src
+ ┣── 📂Features                  
+ ┃    ┗── 📂Chat
+ ┃         ┗──📂 ChatList
+ ┃         ┣──📂 ChatMessage 
+ ┃         ┣──📂 ChatWindow 
+ ┃         ┣──📂 Navigation 
+ ┃         ┗──📂 Profile
+ ┣ 📜App.jsx                   
+ ┣ 📜index.scss
+ ┗ 📜main.jsx
+ 
+## How to push
 
-Instructions on how to use your project.
+- Role commit
+  `{type}: {subject}`
+  - type: build | chore | ci | docs | feat | fix | perf | refactor | revert | style | test
+  - subject: 'Write a short, imperative tense description of the change'
+- Automatic: check lint and format pre-commit
 
-## Contribution
+- Example:
 
-If you'd like to contribute to the project, you can do so by following these steps:
+```bash
+git commit -m "{type}: {subject}"
+```
 
-1. Fork the project.
-2. Create a new feature branch (`git checkout -b feature/feature-name`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push your branch (`git push origin feature/feature-name`).
-5. Create a new Pull Request.
-
-## Directory Structure
-
-
+Description
+|**Types**| **Description** |
+|:---| :--- |
+|feat| A new feature|
+|fix| A bug fix|
+|docs| Documentation only changes|
+|style| Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc) |
+|refactor| A code change that neither fixes a bug nor adds a feature |
+|perf| A code change that improves performance |
+|test| Adding missing tests or correcting existing tests |
+|build| Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm) |
+|ci| 'Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
+|chore| Other changes that don't modify src or test files |
+|revert| Reverts a previous commit |
